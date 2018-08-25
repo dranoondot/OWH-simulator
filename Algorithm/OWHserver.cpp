@@ -13,7 +13,7 @@ while initializing ENet.\n");
 }
 /*Hash function from OWHAlgorithm Encrypts 
 traffic*/   
- OwhHash(13.87.133.77.123, 24, hash);
+ OwhHash(13.87.133.77.123, 22, hash);
 
 
      ENetAddress address;
