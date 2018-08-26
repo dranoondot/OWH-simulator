@@ -3,7 +3,6 @@
 
 class OWHalgorithm {
 string Hash;
-int Salt;
 int port;
 int server;
 OWHHash(server, port,  Hash)
